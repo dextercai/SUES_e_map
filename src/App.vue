@@ -1,28 +1,57 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+	<div>
+	<router-view></router-view>
+	<div id="footer">
+		<p id="copyright">
+			© 2020-{{year}} SUES All Rights Reserved. Version 0.1<br><a href="https://www.beian.miit.gov.cn" target="_blank">-----</a>
+		</p>
+	</div>
+	</div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+export default{
+	data() {
+		return {
+			year:'',
+			getda:false
+		};
+	},
+	mounted() {
+		this.getCurrentYear()
+		console.log("Developed By DexterCai %c (i@dextercai.com)","color:red")
+	},
+	methods: {
+		getCurrentYear() {
+			let date = new Date();
+			let y = date.getFullYear();
+			this.year = y;
 
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
+		}
+	}
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+	#app {
+		font-family: 'Avenir', Helvetica, Arial, sans-serif;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+		text-align: center;
+		color: #2c3e50;
+		margin-top: 60px;
+	}
+	div #footer {
+		background: #303030;
+		font-family: 'Avenir', Helvetica, Arial, sans-serif;
+		text-align: center;
+	}
+	#copyright {
+		color: #ffffff;
+		padding: 5px 0px;
+	}
+	#copyright a {
+		color: #28a7e9;
+		font-weight: bold;
+	}
 </style>

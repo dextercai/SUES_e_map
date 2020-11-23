@@ -1,0 +1,4794 @@
+[
+    {
+      "name": "党委办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A433",
+      "ability": null,
+      "tel": 67791090
+    },
+    {
+      "name": "党委办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A429",
+      "ability": null,
+      "tel": 67791101
+    },
+    {
+      "name": "党委办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A429",
+      "ability": null,
+      "tel": 67791101
+    },
+    {
+      "name": "党委办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A435",
+      "ability": null,
+      "tel": 67791089
+    },
+    {
+      "name": "纪委办公室（监察处）、巡察工作办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行509",
+      "ability": null,
+      "tel": 67791256
+    },
+    {
+      "name": "纪委办公室（监察处）、巡察工作办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行509",
+      "ability": null,
+      "tel": 67791257
+    },
+    {
+      "name": "纪委办公室（监察处）、巡察工作办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行509",
+      "ability": null,
+      "tel": 67791257
+    },
+    {
+      "name": "纪委办公室（监察处）、巡察工作办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行509",
+      "ability": null,
+      "tel": 67796020
+    },
+    {
+      "name": "纪委办公室（监察处）、巡察工作办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行509",
+      "ability": null,
+      "tel": 67796020
+    },
+    {
+      "name": "校友办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A112",
+      "ability": null,
+      "tel": 67657718
+    },
+    {
+      "name": "校友办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A112",
+      "ability": null,
+      "tel": 67796018
+    },
+    {
+      "name": "机关党委",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A413",
+      "ability": null,
+      "tel": 67874120
+    },
+    {
+      "name": "组织部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行415",
+      "ability": null,
+      "tel": 67791270
+    },
+    {
+      "name": "组织部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行419",
+      "ability": null,
+      "tel": 67791264
+    },
+    {
+      "name": "组织部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行415",
+      "ability": null,
+      "tel": 67796028
+    },
+    {
+      "name": "组织部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行419",
+      "ability": null,
+      "tel": 67796031
+    },
+    {
+      "name": "宣传部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行401",
+      "ability": null,
+      "tel": 67791068
+    },
+    {
+      "name": "宣传部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行401",
+      "ability": null,
+      "tel": 67791330
+    },
+    {
+      "name": "宣传部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行403",
+      "ability": null,
+      "tel": 67874100
+    },
+    {
+      "name": "宣传部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行405",
+      "ability": null,
+      "tel": 67791168
+    },
+    {
+      "name": "宣传部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行405",
+      "ability": null,
+      "tel": 67791332
+    },
+    {
+      "name": "宣传部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B303",
+      "ability": null,
+      "tel": 67791434
+    },
+    {
+      "name": "宣传部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B303",
+      "ability": null,
+      "tel": 67791434
+    },
+    {
+      "name": "宣传部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B305",
+      "ability": null,
+      "tel": 67791410
+    },
+    {
+      "name": "校长办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A331",
+      "ability": null,
+      "tel": 67791088
+    },
+    {
+      "name": "校长办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A329",
+      "ability": null,
+      "tel": 67791100
+    },
+    {
+      "name": "校长办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A329",
+      "ability": null,
+      "tel": 67791011
+    },
+    {
+      "name": "校长办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行321",
+      "ability": null,
+      "tel": 67791085
+    },
+    {
+      "name": "校长办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行321",
+      "ability": null,
+      "tel": 67791086
+    },
+    {
+      "name": "校长办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行321",
+      "ability": null,
+      "tel": 67791012
+    },
+    {
+      "name": "校长办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行321",
+      "ability": null,
+      "tel": 67791267
+    },
+    {
+      "name": "校长办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行321",
+      "ability": null,
+      "tel": 67791050
+    },
+    {
+      "name": "校长办公室",
+      "bid": 1,
+      "alias": null,
+      "pos": "行321",
+      "ability": null,
+      "tel": "67791333（传真）"
+    },
+    {
+      "name": "国际交流处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行313",
+      "ability": null,
+      "tel": 67791136
+    },
+    {
+      "name": "国际交流处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行313",
+      "ability": null,
+      "tel": 67874161
+    },
+    {
+      "name": "国际交流处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行315",
+      "ability": null,
+      "tel": 67791158
+    },
+    {
+      "name": "国际交流处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行315",
+      "ability": null,
+      "tel": 67791137
+    },
+    {
+      "name": "国际交流处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行315",
+      "ability": null,
+      "tel": 67791263
+    },
+    {
+      "name": "国际交流处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行315",
+      "ability": null,
+      "tel": 67874013
+    },
+    {
+      "name": "国际交流处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行315",
+      "ability": null,
+      "tel": "67874013（传真）"
+    },
+    {
+      "name": "发展规划处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行521",
+      "ability": null,
+      "tel": 67874027
+    },
+    {
+      "name": "发展规划处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行519",
+      "ability": null,
+      "tel": 67657818
+    },
+    {
+      "name": "发展规划处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行519",
+      "ability": null,
+      "tel": 67791226
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B203",
+      "ability": null,
+      "tel": 67791251
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行303",
+      "ability": null,
+      "tel": 67791485
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行305",
+      "ability": null,
+      "tel": 67791360
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行305",
+      "ability": null,
+      "tel": 67791252
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行305",
+      "ability": null,
+      "tel": 67791249
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行303",
+      "ability": null,
+      "tel": 67791248
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行303",
+      "ability": null,
+      "tel": 67791469
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行303",
+      "ability": null,
+      "tel": 67791469
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行301",
+      "ability": null,
+      "tel": 67791250
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行301",
+      "ability": null,
+      "tel": 67796003
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行301",
+      "ability": null,
+      "tel": 67796004
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行303",
+      "ability": null,
+      "tel": 67791248
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行303",
+      "ability": null,
+      "tel": 67791248
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B203",
+      "ability": null,
+      "tel": 67874139
+    },
+    {
+      "name": "人事处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B203",
+      "ability": null,
+      "tel": 67874162
+    },
+    {
+      "name": "教务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行311",
+      "ability": null,
+      "tel": 67791231
+    },
+    {
+      "name": "教务处",
+      "bid": 5,
+      "alias": null,
+      "pos": "教A107",
+      "ability": null,
+      "tel": 67791405
+    },
+    {
+      "name": "教务处",
+      "bid": 5,
+      "alias": null,
+      "pos": "教A109",
+      "ability": null,
+      "tel": 67791015
+    },
+    {
+      "name": "教务处",
+      "bid": 5,
+      "alias": null,
+      "pos": "教A109",
+      "ability": null,
+      "tel": 67874192
+    },
+    {
+      "name": "教务处",
+      "bid": 5,
+      "alias": null,
+      "pos": "教A109",
+      "ability": null,
+      "tel": 67791048
+    },
+    {
+      "name": "教务处",
+      "bid": 5,
+      "alias": null,
+      "pos": "教A111",
+      "ability": null,
+      "tel": 67791235
+    },
+    {
+      "name": "教务处",
+      "bid": 5,
+      "alias": null,
+      "pos": "教A111",
+      "ability": null,
+      "tel": 67791073
+    },
+    {
+      "name": "教务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1818",
+      "ability": null,
+      "tel": 67874038
+    },
+    {
+      "name": "教务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1818",
+      "ability": null,
+      "tel": 67874039
+    },
+    {
+      "name": "教务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1825",
+      "ability": null,
+      "tel": 67874041
+    },
+    {
+      "name": "教务处",
+      "bid": 5,
+      "alias": null,
+      "pos": "教A106",
+      "ability": null,
+      "tel": 67874101
+    },
+    {
+      "name": "教务处",
+      "bid": 5,
+      "alias": null,
+      "pos": "教B113",
+      "ability": null,
+      "tel": 67791029
+    },
+    {
+      "name": "教务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行309",
+      "ability": null,
+      "tel": 67791229
+    },
+    {
+      "name": "教务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行309",
+      "ability": null,
+      "tel": 67791230
+    },
+    {
+      "name": "教务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行307",
+      "ability": null,
+      "tel": 67791232
+    },
+    {
+      "name": "教务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行307",
+      "ability": null,
+      "tel": 67791346
+    },
+    {
+      "name": "教务处",
+      "bid": 3,
+      "alias": null,
+      "pos": "图120",
+      "ability": null,
+      "tel": 67791064
+    },
+    {
+      "name": "科研处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行211",
+      "ability": null,
+      "tel": 67791239
+    },
+    {
+      "name": "科研处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A211",
+      "ability": null,
+      "tel": 67874102
+    },
+    {
+      "name": "科研处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A211",
+      "ability": null,
+      "tel": 67874102
+    },
+    {
+      "name": "科研处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行207",
+      "ability": null,
+      "tel": 67791499
+    },
+    {
+      "name": "科研处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行207",
+      "ability": null,
+      "tel": 67791483
+    },
+    {
+      "name": "科研处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行207",
+      "ability": null,
+      "tel": 67791498
+    },
+    {
+      "name": "科研处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行205",
+      "ability": null,
+      "tel": 67791237
+    },
+    {
+      "name": "科研处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行207",
+      "ability": null,
+      "tel": 67791237
+    },
+    {
+      "name": "科研处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行207",
+      "ability": null,
+      "tel": 67791237
+    },
+    {
+      "name": "科研处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行205",
+      "ability": null,
+      "tel": 67791481
+    },
+    {
+      "name": "科研处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行523",
+      "ability": null,
+      "tel": 67791415
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A402",
+      "ability": null,
+      "tel": 67791338
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A405",
+      "ability": null,
+      "tel": 67791362
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A405",
+      "ability": null,
+      "tel": 67791022
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A404",
+      "ability": null,
+      "tel": 67791363
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A407",
+      "ability": null,
+      "tel": 67791062
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A404",
+      "ability": null,
+      "tel": 67874006
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A407",
+      "ability": null,
+      "tel": 67791371
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A411",
+      "ability": null,
+      "tel": 67791279
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A212",
+      "ability": null,
+      "tel": 67791384
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A104",
+      "ability": null,
+      "tel": 67791080
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A104",
+      "ability": null,
+      "tel": 67791278
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A104",
+      "ability": null,
+      "tel": 67791282
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A210",
+      "ability": null,
+      "tel": 67791281
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A101",
+      "ability": null,
+      "tel": 67791374
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A103",
+      "ability": null,
+      "tel": 67791021
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A101",
+      "ability": null,
+      "tel": 67791280
+    },
+    {
+      "name": "学生工作部（处）",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A102",
+      "ability": null,
+      "tel": 67791277
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1201",
+      "ability": null,
+      "tel": 67791172
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1203",
+      "ability": null,
+      "tel": 67791173
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1202",
+      "ability": null,
+      "tel": 67791480
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1204",
+      "ability": null,
+      "tel": 67791174
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1001",
+      "ability": null,
+      "tel": 67791151
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1002",
+      "ability": null,
+      "tel": 67791367
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1003",
+      "ability": null,
+      "tel": 67791150
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1005",
+      "ability": null,
+      "tel": 67791192
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1007",
+      "ability": null,
+      "tel": 67791180
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1009",
+      "ability": null,
+      "tel": 67791193
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1109",
+      "ability": null,
+      "tel": 67791398
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1116",
+      "ability": null,
+      "tel": 67657728
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1119",
+      "ability": null,
+      "tel": 67791178
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1123",
+      "ability": null,
+      "tel": 67791413
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1125",
+      "ability": null,
+      "tel": 67791181
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1107",
+      "ability": null,
+      "tel": 67874553
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1215",
+      "ability": null,
+      "tel": 67791147
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1219",
+      "ability": null,
+      "tel": 67874108
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1223",
+      "ability": null,
+      "tel": 67791430
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1225",
+      "ability": null,
+      "tel": 67791149
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1110",
+      "ability": null,
+      "tel": 67791423
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1111",
+      "ability": null,
+      "tel": 67791146
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1115",
+      "ability": null,
+      "tel": 67791422
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1101",
+      "ability": null,
+      "tel": 67874103
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1102",
+      "ability": null,
+      "tel": 67791175
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1104",
+      "ability": null,
+      "tel": 67791385
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1105",
+      "ability": null,
+      "tel": 67791179
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1207",
+      "ability": null,
+      "tel": 67791492
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1209",
+      "ability": null,
+      "tel": 67796019
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1209",
+      "ability": null,
+      "tel": 67791176
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1211",
+      "ability": null,
+      "tel": 67791148
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1211",
+      "ability": null,
+      "tel": 67791152
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教B109",
+      "ability": null,
+      "tel": 67791030
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教B109",
+      "ability": null,
+      "tel": 67796040
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教B109",
+      "ability": null,
+      "tel": 67791045
+    },
+    {
+      "name": "机械与汽车学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教B107",
+      "ability": null,
+      "tel": 67791495
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行907",
+      "ability": null,
+      "tel": 67791121
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行905",
+      "ability": null,
+      "tel": 67791013
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行909",
+      "ability": null,
+      "tel": 67791123
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行909",
+      "ability": null,
+      "tel": 67791130
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行911",
+      "ability": null,
+      "tel": 67791125
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行915",
+      "ability": null,
+      "tel": 67791126
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行919",
+      "ability": null,
+      "tel": 67791127
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行923",
+      "ability": null,
+      "tel": 67874169
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行923",
+      "ability": null,
+      "tel": 67791128
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行925",
+      "ability": null,
+      "tel": 67791418
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行925",
+      "ability": null,
+      "tel": 67791129
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行908",
+      "ability": null,
+      "tel": 67796009
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行908",
+      "ability": null,
+      "tel": 67791131
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行925",
+      "ability": null,
+      "tel": 67791418
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教B109",
+      "ability": null,
+      "tel": 67791404
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教B109",
+      "ability": null,
+      "tel": 67791044
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行902",
+      "ability": null,
+      "tel": 67874167
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1710",
+      "ability": null,
+      "tel": 67874163
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行806",
+      "ability": null,
+      "tel": 67791084
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1202",
+      "ability": null,
+      "tel": 67791437
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1311",
+      "ability": null,
+      "tel": 67791143
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1311",
+      "ability": null,
+      "tel": 67791143
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1106",
+      "ability": null,
+      "tel": 67791142
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1207",
+      "ability": null,
+      "tel": 67791316
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1207",
+      "ability": null,
+      "tel": 67791316
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1156",
+      "ability": null,
+      "tel": 67791063
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1161",
+      "ability": null,
+      "tel": 67791319
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1219",
+      "ability": null,
+      "tel": 67791419
+    },
+    {
+      "name": "电子电气学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1308",
+      "ability": null,
+      "tel": 67791424
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行601",
+      "ability": null,
+      "tel": 67791092
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行603",
+      "ability": null,
+      "tel": 67791091
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行606",
+      "ability": null,
+      "tel": 67791093
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行606",
+      "ability": null,
+      "tel": 67874004
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行606",
+      "ability": null,
+      "tel": 67796042
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行606",
+      "ability": null,
+      "tel": 67791425
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行607",
+      "ability": null,
+      "tel": 67874011
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行607",
+      "ability": null,
+      "tel": 67791471
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行609",
+      "ability": null,
+      "tel": 67874144
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行611",
+      "ability": null,
+      "tel": 67791206
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行611",
+      "ability": null,
+      "tel": 67874145
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行615",
+      "ability": null,
+      "tel": 67874149
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行616",
+      "ability": null,
+      "tel": 67791449
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行619",
+      "ability": null,
+      "tel": 67791095
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行625",
+      "ability": null,
+      "tel": 67791234
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行701",
+      "ability": null,
+      "tel": 67791462
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行702",
+      "ability": null,
+      "tel": 67791244
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行703",
+      "ability": null,
+      "tel": 67874582
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行704",
+      "ability": null,
+      "tel": 67791401
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行705",
+      "ability": null,
+      "tel": 67791099
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行706",
+      "ability": null,
+      "tel": 67791098
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行707",
+      "ability": null,
+      "tel": 67874142
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行708",
+      "ability": null,
+      "tel": 67791349
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行709",
+      "ability": null,
+      "tel": 67874143
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行709",
+      "ability": null,
+      "tel": 67874143
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行711",
+      "ability": null,
+      "tel": 67791400
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行711",
+      "ability": null,
+      "tel": 67791400
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行715",
+      "ability": null,
+      "tel": 67791094
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行715",
+      "ability": null,
+      "tel": 67791094
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行716",
+      "ability": null,
+      "tel": 67791353
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行718",
+      "ability": null,
+      "tel": 67791448
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行719",
+      "ability": null,
+      "tel": 67874140
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行801",
+      "ability": null,
+      "tel": 67791453
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行802",
+      "ability": null,
+      "tel": 67791409
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行803",
+      "ability": null,
+      "tel": 67791451
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行804",
+      "ability": null,
+      "tel": 67791460
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行805",
+      "ability": null,
+      "tel": 67791096
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行807",
+      "ability": null,
+      "tel": 67791457
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行809",
+      "ability": null,
+      "tel": 67791054
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行811",
+      "ability": null,
+      "tel": 67874145
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行816",
+      "ability": null,
+      "tel": 67791446
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行818",
+      "ability": null,
+      "tel": 67791345
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行819",
+      "ability": null,
+      "tel": 67791340
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行823",
+      "ability": null,
+      "tel": 67791468
+    },
+    {
+      "name": "管理学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行825",
+      "ability": null,
+      "tel": 67871239
+    },
+    {
+      "name": "管理学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教F110",
+      "ability": null,
+      "tel": 67791031
+    },
+    {
+      "name": "管理学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教F110",
+      "ability": null,
+      "tel": 67791336
+    },
+    {
+      "name": "管理学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教F110",
+      "ability": null,
+      "tel": 67791414
+    },
+    {
+      "name": "管理学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教F110",
+      "ability": null,
+      "tel": 67791479
+    },
+    {
+      "name": "管理学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1559",
+      "ability": null,
+      "tel": 67791097
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4408",
+      "ability": null,
+      "tel": 67791210
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4410",
+      "ability": null,
+      "tel": 67791211
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4406",
+      "ability": null,
+      "tel": 67791215
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4402",
+      "ability": null,
+      "tel": 67791214
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4402",
+      "ability": null,
+      "tel": 67791213
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3334",
+      "ability": null,
+      "tel": 67791027
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3334",
+      "ability": null,
+      "tel": 67791431
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4412",
+      "ability": null,
+      "tel": 67791432
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4407",
+      "ability": null,
+      "tel": 67791216
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4409",
+      "ability": null,
+      "tel": 67791219
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4413",
+      "ability": null,
+      "tel": 67791220
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4416",
+      "ability": null,
+      "tel": 67874150
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4401",
+      "ability": null,
+      "tel": 67791221
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3321",
+      "ability": null,
+      "tel": 67874046
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3321",
+      "ability": null,
+      "tel": 67874046
+    },
+    {
+      "name": "化工学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3321",
+      "ability": null,
+      "tel": 67874046
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1625",
+      "ability": null,
+      "tel": 67791200
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1625",
+      "ability": null,
+      "tel": 67791200
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1601",
+      "ability": null,
+      "tel": 67791197
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1601",
+      "ability": null,
+      "tel": 67791197
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1609",
+      "ability": null,
+      "tel": 67791198
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1609",
+      "ability": null,
+      "tel": 67791198
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1611",
+      "ability": null,
+      "tel": "67791201/67791377"
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1611",
+      "ability": null,
+      "tel": "67791201/67791377"
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1605",
+      "ability": null,
+      "tel": 67791205
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1605",
+      "ability": null,
+      "tel": 67791205
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1606",
+      "ability": null,
+      "tel": 67791202
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1606",
+      "ability": null,
+      "tel": 67791202
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1608",
+      "ability": null,
+      "tel": 67791202
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1608",
+      "ability": null,
+      "tel": 67791202
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1615",
+      "ability": null,
+      "tel": 67791474
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1615",
+      "ability": null,
+      "tel": 67791474
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1619",
+      "ability": null,
+      "tel": 67791203
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1607",
+      "ability": null,
+      "tel": 67791380
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1607",
+      "ability": null,
+      "tel": 67791380
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3205",
+      "ability": null,
+      "tel": 67791207
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3205",
+      "ability": null,
+      "tel": 67791207
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3233",
+      "ability": null,
+      "tel": 67791411
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3233",
+      "ability": null,
+      "tel": 67791411
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3115",
+      "ability": null,
+      "tel": 67791208
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3115",
+      "ability": null,
+      "tel": 67791208
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5416",
+      "ability": null,
+      "tel": 67796016
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5416",
+      "ability": null,
+      "tel": 67796016
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5416",
+      "ability": null,
+      "tel": 67796017
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5416",
+      "ability": null,
+      "tel": 67796017
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3109",
+      "ability": null,
+      "tel": 67791412
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训3109",
+      "ability": null,
+      "tel": 67791412
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教E113",
+      "ability": null,
+      "tel": 67791032
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教E113",
+      "ability": null,
+      "tel": 67791032
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教E113",
+      "ability": null,
+      "tel": 67791378
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教E113",
+      "ability": null,
+      "tel": 67791378
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教E113",
+      "ability": null,
+      "tel": 67791378
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教E113",
+      "ability": null,
+      "tel": 67791378
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教E113",
+      "ability": null,
+      "tel": 67791379
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教E113",
+      "ability": null,
+      "tel": 67791379
+    },
+    {
+      "name": "材料工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教E113",
+      "ability": null,
+      "tel": 67791379
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6421",
+      "ability": null,
+      "tel": 67791112
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6419",
+      "ability": null,
+      "tel": 67874156
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6405",
+      "ability": null,
+      "tel": 67791113
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6403",
+      "ability": null,
+      "tel": 67874123
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6417",
+      "ability": null,
+      "tel": 67791009
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6415",
+      "ability": null,
+      "tel": 67791255
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6413",
+      "ability": null,
+      "tel": 67791372
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6411",
+      "ability": null,
+      "tel": 67874107
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6407",
+      "ability": null,
+      "tel": 67791115
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6409",
+      "ability": null,
+      "tel": 67874155
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6425",
+      "ability": null,
+      "tel": 67791118
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6425",
+      "ability": null,
+      "tel": 67791440
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6412",
+      "ability": null,
+      "tel": 67874154
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6414",
+      "ability": null,
+      "tel": 67874153
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6402",
+      "ability": null,
+      "tel": 67791114
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6406",
+      "ability": null,
+      "tel": 67791373
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6410",
+      "ability": null,
+      "tel": 67791109
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6401",
+      "ability": null,
+      "tel": 67791116
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6319",
+      "ability": null,
+      "tel": 67791041
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6321",
+      "ability": null,
+      "tel": 67791490
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6327",
+      "ability": null,
+      "tel": 67874152
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6125",
+      "ability": null,
+      "tel": 67791140
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6125",
+      "ability": null,
+      "tel": 67791141
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6317",
+      "ability": null,
+      "tel": 67874151
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6317",
+      "ability": null,
+      "tel": 67874151
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6317",
+      "ability": null,
+      "tel": 67874151
+    },
+    {
+      "name": "航空运输学院（飞行学院）",
+      "bid": 8,
+      "alias": null,
+      "pos": "航6323",
+      "ability": null,
+      "tel": 67794109
+    },
+    {
+      "name": "科瑞公司",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼302",
+      "ability": null,
+      "tel": 67791470
+    },
+    {
+      "name": "科瑞公司",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B302",
+      "ability": null,
+      "tel": 67791087
+    },
+    {
+      "name": "科瑞公司",
+      "bid": 1,
+      "alias": null,
+      "pos": "音控室",
+      "ability": null,
+      "tel": 67791347
+    },
+    {
+      "name": "科瑞公司",
+      "bid": 3,
+      "alias": null,
+      "pos": "音控室",
+      "ability": null,
+      "tel": 67791394
+    },
+    {
+      "name": "科瑞公司",
+      "bid": 5,
+      "alias": null,
+      "pos": "教C102",
+      "ability": null,
+      "tel": 67791043
+    },
+    {
+      "name": "研究生处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A119",
+      "ability": null,
+      "tel": 67791438
+    },
+    {
+      "name": "研究生处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A115",
+      "ability": null,
+      "tel": 67791236
+    },
+    {
+      "name": "研究生处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A112",
+      "ability": null,
+      "tel": 67796005
+    },
+    {
+      "name": "研究生处",
+      "bid": 5,
+      "alias": null,
+      "pos": "教E109",
+      "ability": null,
+      "tel": 67791223
+    },
+    {
+      "name": "研究生处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A107",
+      "ability": null,
+      "tel": 67796008
+    },
+    {
+      "name": "研究生处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A113",
+      "ability": null,
+      "tel": 67791224
+    },
+    {
+      "name": "研究生处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A111",
+      "ability": null,
+      "tel": 67657898
+    },
+    {
+      "name": "研究生处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A111",
+      "ability": null,
+      "tel": 67791224
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A225",
+      "ability": null,
+      "tel": 67791156
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A223",
+      "ability": null,
+      "tel": 67791144
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A227",
+      "ability": null,
+      "tel": 67791199
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A217",
+      "ability": null,
+      "tel": 67791157
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A217",
+      "ability": null,
+      "tel": 67791157
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A220",
+      "ability": null,
+      "tel": 67796011
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A220",
+      "ability": null,
+      "tel": 67791159
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A220",
+      "ability": null,
+      "tel": 67791315
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A212-A218",
+      "ability": null,
+      "tel": 67796006
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A212-A218",
+      "ability": null,
+      "tel": 67796006
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A212-A218",
+      "ability": null,
+      "tel": 67791402
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A212-A218",
+      "ability": null,
+      "tel": 67791402
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A212-A218",
+      "ability": null,
+      "tel": 67791442
+    },
+    {
+      "name": "财务处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A212-A218",
+      "ability": null,
+      "tel": 67874017
+    },
+    {
+      "name": "审计处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行515",
+      "ability": null,
+      "tel": 67791240
+    },
+    {
+      "name": "审计处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行515",
+      "ability": null,
+      "tel": 67791395
+    },
+    {
+      "name": "基建处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A119",
+      "ability": null,
+      "tel": 67791067
+    },
+    {
+      "name": "基建处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A117",
+      "ability": null,
+      "tel": 67791069
+    },
+    {
+      "name": "基建处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A120",
+      "ability": null,
+      "tel": 67874558
+    },
+    {
+      "name": "基建处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A120",
+      "ability": null,
+      "tel": 67791070
+    },
+    {
+      "name": "基建处",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5404",
+      "ability": null,
+      "tel": 67874125
+    },
+    {
+      "name": "资产与实验室管理处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B117",
+      "ability": null,
+      "tel": 67791047
+    },
+    {
+      "name": "资产与实验室管理处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B117",
+      "ability": null,
+      "tel": 67791258
+    },
+    {
+      "name": "资产与实验室管理处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B117",
+      "ability": null,
+      "tel": 67791122
+    },
+    {
+      "name": "资产与实验室管理处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B115",
+      "ability": null,
+      "tel": 67791259
+    },
+    {
+      "name": "资产与实验室管理处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B115",
+      "ability": null,
+      "tel": 67791259
+    },
+    {
+      "name": "资产与实验室管理处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B102",
+      "ability": null,
+      "tel": 67791209
+    },
+    {
+      "name": "资产与实验室管理处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B113",
+      "ability": null,
+      "tel": 67791261
+    },
+    {
+      "name": "资产与实验室管理处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B111",
+      "ability": null,
+      "tel": 67791017
+    },
+    {
+      "name": "资产与实验室管理处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B111",
+      "ability": null,
+      "tel": 67791477
+    },
+    {
+      "name": "资产与实验室管理处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B111",
+      "ability": null,
+      "tel": "67791111（传真）"
+    },
+    {
+      "name": "资产与实验室管理处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B110",
+      "ability": null,
+      "tel": 67791260
+    },
+    {
+      "name": "资产与实验室管理处",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B110",
+      "ability": null,
+      "tel": 67791260
+    },
+    {
+      "name": "保卫部（处）",
+      "bid": 1,
+      "alias": null,
+      "pos": "行C211",
+      "ability": null,
+      "tel": 67791155
+    },
+    {
+      "name": "保卫部（处）",
+      "bid": 1,
+      "alias": null,
+      "pos": "行C213",
+      "ability": null,
+      "tel": 67791051
+    },
+    {
+      "name": "保卫部（处）",
+      "bid": 1,
+      "alias": null,
+      "pos": "行C109",
+      "ability": null,
+      "tel": 67791110
+    },
+    {
+      "name": "保卫部（处）",
+      "bid": 1,
+      "alias": null,
+      "pos": "行C207",
+      "ability": null,
+      "tel": 67791042
+    },
+    {
+      "name": "保卫部（处）",
+      "bid": 1,
+      "alias": null,
+      "pos": "行C207",
+      "ability": null,
+      "tel": 67791049
+    },
+    {
+      "name": "保卫部（处）",
+      "bid": 1,
+      "alias": null,
+      "pos": "行C209",
+      "ability": null,
+      "tel": 67791106
+    },
+    {
+      "name": "保卫部（处）",
+      "bid": 1,
+      "alias": null,
+      "pos": "行C205",
+      "ability": null,
+      "tel": 67791436
+    },
+    {
+      "name": "保卫部（处）",
+      "bid": 1,
+      "alias": null,
+      "pos": "行C205",
+      "ability": null,
+      "tel": 67791436
+    },
+    {
+      "name": "保卫部（处）",
+      "bid": 1,
+      "alias": null,
+      "pos": "行C107",
+      "ability": null,
+      "tel": 67791119
+    },
+    {
+      "name": "工会",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A425",
+      "ability": null,
+      "tel": 67791313
+    },
+    {
+      "name": "工会",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A417",
+      "ability": null,
+      "tel": 67791439
+    },
+    {
+      "name": "工会",
+      "bid": 1,
+      "alias": null,
+      "pos": "行A417",
+      "ability": null,
+      "tel": 67791254
+    },
+    {
+      "name": "工会",
+      "bid": 1,
+      "alias": null,
+      "pos": "行106",
+      "ability": null,
+      "tel": 67874111
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A302",
+      "ability": null,
+      "tel": 67791386
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A303",
+      "ability": null,
+      "tel": 67791071
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A202",
+      "ability": null,
+      "tel": 67796024
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A308",
+      "ability": null,
+      "tel": 67796024
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A312",
+      "ability": null,
+      "tel": 67796024
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A204",
+      "ability": null,
+      "tel": 67791403
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A306",
+      "ability": null,
+      "tel": 67791391
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A308",
+      "ability": null,
+      "tel": 67796024
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A310",
+      "ability": null,
+      "tel": 67796024
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A207",
+      "ability": null,
+      "tel": 67796024
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A303",
+      "ability": null,
+      "tel": 67791071
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A311",
+      "ability": null,
+      "tel": 67796024
+    },
+    {
+      "name": "团委",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A214",
+      "ability": null,
+      "tel": 67874173
+    },
+    {
+      "name": "信息化办公室",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文111",
+      "ability": null,
+      "tel": 67791135
+    },
+    {
+      "name": "信息化办公室",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文111",
+      "ability": null,
+      "tel": 67791135
+    },
+    {
+      "name": "信息化办公室",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文113",
+      "ability": null,
+      "tel": 67874126
+    },
+    {
+      "name": "信息化办公室",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文113",
+      "ability": null,
+      "tel": 67874126
+    },
+    {
+      "name": "信息化办公室",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文112",
+      "ability": null,
+      "tel": 67791056
+    },
+    {
+      "name": "信息化办公室",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文106",
+      "ability": null,
+      "tel": 67791134
+    },
+    {
+      "name": "信息化办公室",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文108",
+      "ability": null,
+      "tel": 67798276
+    },
+    {
+      "name": "信息化办公室",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文108",
+      "ability": null,
+      "tel": 67798513
+    },
+    {
+      "name": "信息化办公室",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文213",
+      "ability": null,
+      "tel": 67791020
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图537",
+      "ability": null,
+      "tel": 67791366
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图529",
+      "ability": null,
+      "tel": 67791300
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图523",
+      "ability": null,
+      "tel": 67791302
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图533",
+      "ability": null,
+      "tel": 67791301
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图154",
+      "ability": null,
+      "tel": 67791303
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图525",
+      "ability": null,
+      "tel": 67791037
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图210",
+      "ability": null,
+      "tel": 67874124
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图203",
+      "ability": null,
+      "tel": 67791304
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图203",
+      "ability": null,
+      "tel": 67791305
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图535",
+      "ability": null,
+      "tel": 67791306
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图133",
+      "ability": null,
+      "tel": 67791038
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图303",
+      "ability": null,
+      "tel": 67791077
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图304",
+      "ability": null,
+      "tel": 67791154
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图403",
+      "ability": null,
+      "tel": 67791389
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图404",
+      "ability": null,
+      "tel": 67791183
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图507",
+      "ability": null,
+      "tel": 67791185
+    },
+    {
+      "name": "图书馆",
+      "bid": 3,
+      "alias": null,
+      "pos": "图152",
+      "ability": null,
+      "tel": 67791390
+    },
+    {
+      "name": "档案馆",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文513",
+      "ability": null,
+      "tel": 67791392
+    },
+    {
+      "name": "档案馆",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文511",
+      "ability": null,
+      "tel": 67657808
+    },
+    {
+      "name": "档案馆",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文403",
+      "ability": null,
+      "tel": 67791314
+    },
+    {
+      "name": "档案馆",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文408",
+      "ability": null,
+      "tel": 67657768
+    },
+    {
+      "name": "档案馆",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文518",
+      "ability": null,
+      "tel": 67791318
+    },
+    {
+      "name": "档案馆",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文518",
+      "ability": null,
+      "tel": 67791435
+    },
+    {
+      "name": "档案馆",
+      "bid": 10,
+      "alias": null,
+      "pos": "第二图文505",
+      "ability": null,
+      "tel": 67791337
+    },
+    {
+      "name": "校产办",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼204",
+      "ability": null,
+      "tel": 67791225
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1107",
+      "ability": null,
+      "tel": 67791161
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1105",
+      "ability": null,
+      "tel": 67874170
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1105",
+      "ability": null,
+      "tel": 67791160
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1101",
+      "ability": null,
+      "tel": 67791433
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1111",
+      "ability": null,
+      "tel": 67874118
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1111",
+      "ability": null,
+      "tel": 67791163
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1101",
+      "ability": null,
+      "tel": 67874117
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1101",
+      "ability": null,
+      "tel": 67874117
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1103",
+      "ability": null,
+      "tel": 67791162
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1103",
+      "ability": null,
+      "tel": 67791162
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1103",
+      "ability": null,
+      "tel": 67791162
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1123",
+      "ability": null,
+      "tel": 67791167
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1123",
+      "ability": null,
+      "tel": 67791167
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1125",
+      "ability": null,
+      "tel": 67791170
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1115",
+      "ability": null,
+      "tel": 67791164
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1119",
+      "ability": null,
+      "tel": 67791165
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1118",
+      "ability": null,
+      "tel": 67791171
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1116",
+      "ability": null,
+      "tel": 67791420
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1102",
+      "ability": null,
+      "tel": 67874024
+    },
+    {
+      "name": "轨道学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1109",
+      "ability": null,
+      "tel": 67874025
+    },
+    {
+      "name": "轨道学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教C107",
+      "ability": null,
+      "tel": 67791072
+    },
+    {
+      "name": "轨道学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教C107",
+      "ability": null,
+      "tel": 67791493
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5313",
+      "ability": null,
+      "tel": 67791010
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5313",
+      "ability": null,
+      "tel": 67791010
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5313",
+      "ability": null,
+      "tel": 67791464
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5313",
+      "ability": null,
+      "tel": 67791464
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5314",
+      "ability": null,
+      "tel": 67791497
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5314",
+      "ability": null,
+      "tel": 67791497
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5323",
+      "ability": null,
+      "tel": 67791476
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5323",
+      "ability": null,
+      "tel": 67791476
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5306",
+      "ability": null,
+      "tel": 67791478
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5306",
+      "ability": null,
+      "tel": 67791478
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4128",
+      "ability": null,
+      "tel": 67791355
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4128",
+      "ability": null,
+      "tel": 67791355
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5409",
+      "ability": null,
+      "tel": 67874112
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5409",
+      "ability": null,
+      "tel": 67874112
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5413",
+      "ability": null,
+      "tel": 67874113
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5413",
+      "ability": null,
+      "tel": 67874113
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5415",
+      "ability": null,
+      "tel": 67874110
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5415",
+      "ability": null,
+      "tel": 67874110
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5420",
+      "ability": null,
+      "tel": 67874115
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5420",
+      "ability": null,
+      "tel": 67874115
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5424",
+      "ability": null,
+      "tel": 67874116
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5424",
+      "ability": null,
+      "tel": 67874116
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5426",
+      "ability": null,
+      "tel": 67874114
+    },
+    {
+      "name": "轨道学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5426",
+      "ability": null,
+      "tel": 67874114
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A427",
+      "ability": null,
+      "tel": 67791482
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A429",
+      "ability": null,
+      "tel": 67791283
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A423",
+      "ability": null,
+      "tel": 67874121
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A423",
+      "ability": null,
+      "tel": 67791285
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A425",
+      "ability": null,
+      "tel": 67791288
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A425",
+      "ability": null,
+      "tel": 67791288
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A421",
+      "ability": null,
+      "tel": 67791286
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A421",
+      "ability": null,
+      "tel": 67791286
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A431",
+      "ability": null,
+      "tel": 67791289
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A431",
+      "ability": null,
+      "tel": 67791289
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A321",
+      "ability": null,
+      "tel": 67791287
+    },
+    {
+      "name": "艺术学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教C111",
+      "ability": null,
+      "tel": 67791082
+    },
+    {
+      "name": "艺术学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教C111",
+      "ability": null,
+      "tel": 67791491
+    },
+    {
+      "name": "艺术学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教A103",
+      "ability": null,
+      "tel": 67791075
+    },
+    {
+      "name": "艺术学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教A103",
+      "ability": null,
+      "tel": 67791075
+    },
+    {
+      "name": "艺术学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教A103",
+      "ability": null,
+      "tel": 67791075
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A409",
+      "ability": null,
+      "tel": 67791321
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A413",
+      "ability": null,
+      "tel": 67791331
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A408",
+      "ability": null,
+      "tel": 67874031
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A323",
+      "ability": null,
+      "tel": 67791365
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A325",
+      "ability": null,
+      "tel": 67791284
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺C519",
+      "ability": null,
+      "tel": 67874099
+    },
+    {
+      "name": "艺术学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A407",
+      "ability": null,
+      "tel": 67874122
+    },
+    {
+      "name": "服装学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A231",
+      "ability": null,
+      "tel": 67791290
+    },
+    {
+      "name": "服装学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A227",
+      "ability": null,
+      "tel": 67791291
+    },
+    {
+      "name": "服装学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A225",
+      "ability": null,
+      "tel": 67791292
+    },
+    {
+      "name": "服装学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A221",
+      "ability": null,
+      "tel": "67791294、67791427"
+    },
+    {
+      "name": "服装学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教D113",
+      "ability": null,
+      "tel": "67791061、67791496"
+    },
+    {
+      "name": "服装学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A317",
+      "ability": null,
+      "tel": 67796013
+    },
+    {
+      "name": "服装学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A201",
+      "ability": null,
+      "tel": 67791297
+    },
+    {
+      "name": "服装学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺B201",
+      "ability": null,
+      "tel": 67796026
+    },
+    {
+      "name": "服装学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A301",
+      "ability": null,
+      "tel": 67791295
+    },
+    {
+      "name": "服装学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺B301",
+      "ability": null,
+      "tel": 67791295
+    },
+    {
+      "name": "服装学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A319",
+      "ability": null,
+      "tel": 67791296
+    },
+    {
+      "name": "服装学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A327",
+      "ability": null,
+      "tel": 67791486
+    },
+    {
+      "name": "服装学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A329",
+      "ability": null,
+      "tel": 67796038
+    },
+    {
+      "name": "中韩多媒体学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A121",
+      "ability": null,
+      "tel": 67791322
+    },
+    {
+      "name": "中韩多媒体学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A123",
+      "ability": null,
+      "tel": 67791383
+    },
+    {
+      "name": "中韩多媒体学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A119",
+      "ability": null,
+      "tel": 67791348
+    },
+    {
+      "name": "中韩多媒体学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A117",
+      "ability": null,
+      "tel": 67791472
+    },
+    {
+      "name": "中韩多媒体学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A114",
+      "ability": null,
+      "tel": 67791320
+    },
+    {
+      "name": "中韩多媒体学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A125",
+      "ability": null,
+      "tel": 67874193
+    },
+    {
+      "name": "中韩多媒体学院",
+      "bid": 4,
+      "alias": null,
+      "pos": "艺A127",
+      "ability": null,
+      "tel": 67791323
+    },
+    {
+      "name": "中美工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教E213",
+      "ability": null,
+      "tel": 67874106
+    },
+    {
+      "name": "中美工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教D501",
+      "ability": null,
+      "tel": 67874127
+    },
+    {
+      "name": "中美工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教D500",
+      "ability": null,
+      "tel": 67874128
+    },
+    {
+      "name": "中美工程学院",
+      "bid": 5,
+      "alias": null,
+      "pos": "教A214",
+      "ability": null,
+      "tel": 67791444
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1301",
+      "ability": null,
+      "tel": 67791195
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1302",
+      "ability": null,
+      "tel": 67791196
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1503",
+      "ability": null,
+      "tel": 67791189
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1325",
+      "ability": null,
+      "tel": 67657868
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1311",
+      "ability": null,
+      "tel": 67791194
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1313",
+      "ability": null,
+      "tel": 67791428
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1309",
+      "ability": null,
+      "tel": 67657858
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1314",
+      "ability": null,
+      "tel": 67871232
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1319",
+      "ability": null,
+      "tel": 67791190
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1315",
+      "ability": null,
+      "tel": 67791191
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1723",
+      "ability": null,
+      "tel": 67871221
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训2209",
+      "ability": null,
+      "tel": 67791039
+    },
+    {
+      "name": "数理与统计学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训2117",
+      "ability": null,
+      "tel": 67791317
+    },
+    {
+      "name": "外国语学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1501",
+      "ability": null,
+      "tel": 67871952
+    },
+    {
+      "name": "外国语学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1502",
+      "ability": null,
+      "tel": 67871606
+    },
+    {
+      "name": "外国语学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1509",
+      "ability": null,
+      "tel": 67871251
+    },
+    {
+      "name": "外国语学院",
+      "bid": 2,
+      "alias": null,
+      "pos": "训2311",
+      "ability": null,
+      "tel": 67791429
+    },
+    {
+      "name": "外国语学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1507",
+      "ability": null,
+      "tel": 67791033
+    },
+    {
+      "name": "外国语学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1525",
+      "ability": null,
+      "tel": 67791014
+    },
+    {
+      "name": "外国语学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1523",
+      "ability": null,
+      "tel": 67791065
+    },
+    {
+      "name": "外国语学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1511",
+      "ability": null,
+      "tel": 67871613
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行901",
+      "ability": null,
+      "tel": 67791461
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行903",
+      "ability": null,
+      "tel": 67874132
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行905",
+      "ability": null,
+      "tel": 67874133
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行907",
+      "ability": null,
+      "tel": 67791463
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行909",
+      "ability": null,
+      "tel": 67791350
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行911",
+      "ability": null,
+      "tel": 67791040
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行912",
+      "ability": null,
+      "tel": 67791105
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行915-917",
+      "ability": null,
+      "tel": 67791102
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行919—921",
+      "ability": null,
+      "tel": 67792370
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行923",
+      "ability": null,
+      "tel": 67791488
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行925",
+      "ability": null,
+      "tel": 67791104
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1011",
+      "ability": null,
+      "tel": 67791456
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1015",
+      "ability": null,
+      "tel": 67874134
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1019",
+      "ability": null,
+      "tel": 67791103
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1023",
+      "ability": null,
+      "tel": 67791445
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1025",
+      "ability": null,
+      "tel": 67791345
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1701",
+      "ability": null,
+      "tel": 67874136
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1702",
+      "ability": null,
+      "tel": 67874137
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1703",
+      "ability": null,
+      "tel": 67874138
+    },
+    {
+      "name": "社会科学学部",
+      "bid": 5,
+      "alias": null,
+      "pos": "教D117",
+      "ability": null,
+      "tel": 67791351
+    },
+    {
+      "name": "体育教学部",
+      "bid": 9,
+      "alias": null,
+      "pos": "馆111",
+      "ability": null,
+      "tel": 67796014
+    },
+    {
+      "name": "体育教学部",
+      "bid": 9,
+      "alias": null,
+      "pos": "馆117",
+      "ability": null,
+      "tel": 67791308
+    },
+    {
+      "name": "体育教学部",
+      "bid": 9,
+      "alias": null,
+      "pos": "馆131",
+      "ability": null,
+      "tel": 67791036
+    },
+    {
+      "name": "体育教学部",
+      "bid": 9,
+      "alias": null,
+      "pos": "馆117",
+      "ability": null,
+      "tel": 67791307
+    },
+    {
+      "name": "体育教学部",
+      "bid": 9,
+      "alias": null,
+      "pos": "馆139",
+      "ability": null,
+      "tel": 67791309
+    },
+    {
+      "name": "体育教学部",
+      "bid": 9,
+      "alias": null,
+      "pos": "馆129",
+      "ability": null,
+      "tel": 67791310
+    },
+    {
+      "name": "体育教学部",
+      "bid": 9,
+      "alias": null,
+      "pos": "馆103",
+      "ability": null,
+      "tel": 67791494
+    },
+    {
+      "name": "体育教学部",
+      "bid": 9,
+      "alias": null,
+      "pos": "体育馆",
+      "ability": null,
+      "tel": 67791311
+    },
+    {
+      "name": "体育教学部",
+      "bid": 9,
+      "alias": null,
+      "pos": "体育馆",
+      "ability": null,
+      "tel": 67791341
+    },
+    {
+      "name": "体育教学部",
+      "bid": 9,
+      "alias": null,
+      "pos": "体育馆",
+      "ability": null,
+      "tel": 67791066
+    },
+    {
+      "name": "体育教学部",
+      "bid": 9,
+      "alias": null,
+      "pos": "体育馆",
+      "ability": null,
+      "tel": 67791066
+    },
+    {
+      "name": "工程实训中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1440",
+      "ability": null,
+      "tel": 67791108
+    },
+    {
+      "name": "工程实训中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1442",
+      "ability": null,
+      "tel": 67791272
+    },
+    {
+      "name": "工程实训中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1444",
+      "ability": null,
+      "tel": 67791139
+    },
+    {
+      "name": "工程实训中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1240",
+      "ability": null,
+      "tel": 67791245
+    },
+    {
+      "name": "工程实训中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1446",
+      "ability": null,
+      "tel": 67791138
+    },
+    {
+      "name": "工程实训中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1244",
+      "ability": null,
+      "tel": 67791246
+    },
+    {
+      "name": "工程实训中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1360",
+      "ability": null,
+      "tel": 67791241
+    },
+    {
+      "name": "工程实训中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1434",
+      "ability": null,
+      "tel": 67791247
+    },
+    {
+      "name": "工程实训中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1351",
+      "ability": null,
+      "tel": 67791023
+    },
+    {
+      "name": "工程实训中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训4417",
+      "ability": null,
+      "tel": 67791060
+    },
+    {
+      "name": "工程实训中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1254",
+      "ability": null,
+      "tel": 67791361
+    },
+    {
+      "name": "计算中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1429",
+      "ability": null,
+      "tel": 67791117
+    },
+    {
+      "name": "计算中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1423",
+      "ability": null,
+      "tel": 67791034
+    },
+    {
+      "name": "计算中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1421",
+      "ability": null,
+      "tel": 67791083
+    },
+    {
+      "name": "计算中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1413",
+      "ability": null,
+      "tel": 67791035
+    },
+    {
+      "name": "计算中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1417",
+      "ability": null,
+      "tel": 67791035
+    },
+    {
+      "name": "计算中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1425",
+      "ability": null,
+      "tel": 67791107
+    },
+    {
+      "name": "计算中心",
+      "bid": 2,
+      "alias": null,
+      "pos": "训1454",
+      "ability": null,
+      "tel": 67791243
+    },
+    {
+      "name": "继续教育学院",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B105",
+      "ability": null,
+      "tel": 67791233
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼109",
+      "ability": null,
+      "tel": 67791326
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼111",
+      "ability": null,
+      "tel": 67791327
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼105",
+      "ability": null,
+      "tel": 67796050
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼107",
+      "ability": null,
+      "tel": 67791335
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼101",
+      "ability": null,
+      "tel": 37667435
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼103",
+      "ability": null,
+      "tel": 67791329
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼103",
+      "ability": null,
+      "tel": 67791325
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼103",
+      "ability": null,
+      "tel": 37667436
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼110",
+      "ability": null,
+      "tel": 67791058
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A221",
+      "ability": null,
+      "tel": 67791059
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A220",
+      "ability": null,
+      "tel": 67791019
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 6,
+      "alias": null,
+      "pos": "师活A106",
+      "ability": null,
+      "tel": 67791120
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 11,
+      "alias": null,
+      "pos": "第一餐厅",
+      "ability": null,
+      "tel": 67791025
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 12,
+      "alias": null,
+      "pos": "三期14号楼",
+      "ability": null,
+      "tel": 67795250
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 12,
+      "alias": null,
+      "pos": "三期13号楼",
+      "ability": null,
+      "tel": 67874146
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 12,
+      "alias": null,
+      "pos": "三期13号楼",
+      "ability": null,
+      "tel": 67799899
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼108",
+      "ability": null,
+      "tel": 67874130
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 7,
+      "alias": null,
+      "pos": "后勤综合楼108",
+      "ability": null,
+      "tel": 67791262
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 1,
+      "alias": null,
+      "pos": "行C101",
+      "ability": null,
+      "tel": 67791024
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 5,
+      "alias": null,
+      "pos": "教A213",
+      "ability": null,
+      "tel": 67791074
+    },
+    {
+      "name": "后勤实业发展中心",
+      "bid": 5,
+      "alias": null,
+      "pos": "教E313",
+      "ability": null,
+      "tel": 67791018
+    },
+    {
+      "name": "高等教育研究所",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5402-5404",
+      "ability": null,
+      "tel": 37667129
+    },
+    {
+      "name": "高等教育研究所",
+      "bid": 2,
+      "alias": null,
+      "pos": "训5402-5404",
+      "ability": null,
+      "tel": 37667156
+    },
+    {
+      "name": "高等教育研究所",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1805",
+      "ability": null,
+      "tel": 67874044
+    },
+    {
+      "name": "工程教育发展研究中心",
+      "bid": 1,
+      "alias": null,
+      "pos": "行1813",
+      "ability": null,
+      "tel": 67874023
+    },
+    {
+      "name": "水电、空调、电梯报修",
+      "bid": 5,
+      "alias": null,
+      "pos": "教J112",
+      "ability": null,
+      "tel": 67791078
+    },
+    {
+      "name": "中层干部值班",
+      "bid": 1,
+      "alias": null,
+      "pos": "行B202",
+      "ability": null,
+      "tel": 67791055
+    },
+    {
+      "name": "校咨询",
+      "bid": 3,
+      "alias": null,
+      "pos": "图104",
+      "ability": null,
+      "tel": 67791212
+    }
+  ]
